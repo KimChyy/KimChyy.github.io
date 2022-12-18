@@ -270,7 +270,7 @@ nav .fas{
     display: none;
 }
 
-@media only screen and(max-width: 600px){
+@media only screen and (max-width: 600px){
     #header{
         background-image: url(../images/background.png);
     }
@@ -300,7 +300,7 @@ nav .fas{
         display: block;
         margin: 25px;
     }
-    nav ul fas{
+    nav ul .fas{
         position: absolute;
         top: 25px;
         left: 25px;
